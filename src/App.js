@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { CssBaseline } from '@material-ui/core';
-import {commerce} from '.lib/commerce';
+
+
+
 import Products from './components/Products/Products';
 import Navbar from './components/Navbar/Navbar';
 import Cart from './components/Cart/Cart';

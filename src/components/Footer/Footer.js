@@ -33,13 +33,13 @@ const Footer = () => {
           <MDBCol md="4" lg="3" xl="3" className="mx-auto mt-3">
             <h6 className="text-uppercase mb-4 font-weight-bold"><strong>Contact</strong></h6>
             <p>
-              <i className="fa fa-envelope mr-3" /> rajdeepsingh7733@gmail.com
+              <i className="fa fa-envelope mr-3" /> bandgar142@gmail.com
             </p>
             <p>
-              <i className="fa fa-phone mr-3" /> +91 9461652640
+              <i className="fa fa-phone mr-3" /> +91 7448058941
             </p>
             <p>
-              <i className="fa fa-home mr-3" /> RIET, Jaipur, Rajasthan
+              <i className="fa fa-home mr-3" /> Ashiv, Latur, Maharashtra
             </p>
           </MDBCol>
         </MDBRow>
@@ -48,29 +48,29 @@ const Footer = () => {
           <MDBCol md="8" lg="8">
             <p className="text-center text-md-left grey-text">
               &copy; {new Date().getFullYear()} Made by
-              <a href=""> Rajdeep Singh </a>
+              <a href=""> Pravin Bandgar  </a>
             </p>
           </MDBCol>
           <MDBCol md="4" lg="4" className="ml-lg-0">
             <div className="text-center text-md-right">
               <ul className="list-unstyled list-inline">
               <li className="list-inline-item">
-                  <a className="btn-floating btn-sm rgba-white-slight mx-1" href="http://github.com/Rajdeep777">
+                  <a className="btn-floating btn-sm rgba-white-slight mx-1" href="https://github.com/bandgar960">
                     <i className="fab fa-github" />
                   </a>
                 </li>
                 <li className="list-inline-item">
-                  <a className="btn-floating btn-sm rgba-white-slight mx-1" href='https://www.linkedin.com/in/rajdeepsingh007/'>
+                  <a className="btn-floating btn-sm rgba-white-slight mx-1" href='https://www.linkedin.com/in/pravin-bandgar-8b22b921b/'>
                     <i className="fab fa-linkedin-in" />
                   </a>
                 </li>
                 <li className="list-inline-item">
-                  <a className="btn-floating btn-sm rgba-white-slight mx-1" href='https://www.facebook.com/rajdeep7733/'>
+                  <a className="btn-floating btn-sm rgba-white-slight mx-1" href='#'>
                     <i className="fab fa-facebook-f" />
                   </a>
                 </li>
                 <li className="list-inline-item">
-                  <a className="btn-floating btn-sm rgba-white-slight mx-1" href='https://www.instagram.com/rajdeepsingh895/'>
+                  <a className="btn-floating btn-sm rgba-white-slight mx-1" href='#'>
                     <i className="fab fa-instagram" />
                   </a>
                 </li>
