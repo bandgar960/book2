@@ -1,0 +1,13 @@
+body{
+    background: black!important;
+}
+
+.MuiPaper-elevation1{
+    -webkit-transition: all 0.7s ease-in-out!important;
+}
+
+.MuiPaper-elevation1:hover{
+    -webkit-transform: scale(1.03)!important;
+    box-shadow: 1px 1px 15px 1px black!important;
+}
+
